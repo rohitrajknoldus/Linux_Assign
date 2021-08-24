@@ -1,5 +1,5 @@
 # Linux_Assign
-Written a shell script that prints “Shell Scripting is Fun!” on the screen
+Ex-1- Written a shell script that prints “Shell Scripting is Fun!” on the screen
 
 Ex-2- Modified the shell script from exercise 1 to include a variable. The variable will hold the contents of the message “Shell Scripting is Fun!”
 
